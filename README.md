@@ -6,4 +6,4 @@
 <a href="https://www.mozilla.org/en-US/MPL/2.0/"><img src=https://img.shields.io/badge/License-MPL2.0-blue.svg alt="MPL2.0"></a>
 </h1>
 
-<p>The **Bundles+** mod brings new life to bundles, there is times when you would like to **destroy a mountain!** or mine entire **chunks!** that is too much but the Bundle **does help** with that, this mod *improves* and *adds* Bundles to Minecraft even so if i do not really know java or fabric that well!</p>
+<p>The <strong>Bundles+</strong> mod brings new life to bundles, there is times when you would like to <strong>destroy a mountain!</strong> or mine entire <strong>chunks!</strong> that is too much but the Bundle <strong>does help</strong> with that, this mod <i>improves</i> and <i>adds</i> Bundles to Minecraft even so if i do not really know java or fabric that well!</p>
