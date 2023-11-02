@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "121",
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:leather"
+    },
+    "2": {
+      "item": "minecraft:lead"
+    }
+  },
+  "result": {
+    "item": "dcq_bundles:bundle",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "dcq_bundles:item/sticky_bundle"
+    },
+    "overrides": [
+        { "predicate": { "fillmetter": 0.0000001 }, "model": "dcq_bundles:item/sticky_bundle_filled" }
+    ]
+}

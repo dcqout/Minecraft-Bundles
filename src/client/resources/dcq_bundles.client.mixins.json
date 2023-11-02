@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "dcq.mods.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"BundleClicked",
+		"BundleComponent",
+		"HandledBundle",
+		"ScreenInterceptor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "dcq_bundles:item/sticky_bundle",
+    "textures": {
+        "layer0": "dcq_bundles:item/sticky_bundle_filled"
+    }
+}
